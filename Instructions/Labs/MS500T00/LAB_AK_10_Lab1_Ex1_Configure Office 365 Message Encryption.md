@@ -1,4 +1,4 @@
-﻿# モジュール 10 - ラボ 1 - 演習 1 - Office 365 Message Encryption を構成する
+﻿# モジュール 9 - ラボ 1 - 演習 1 - Office 365 Message Encryption を構成する
 
 
 このラボでは、Adatum のセキュリティ管理者、Holly Dickson になったと仮定します。Adatum の Microsoft 365 で Office 365 Message Encryption を使用してみるように言われました。

@@ -1,4 +1,4 @@
-﻿# モジュール 13 - ラボ 1 - 演習 1 - Privileged Access Management を設定して要求を処理する
+﻿# モジュール 11 - ラボ 1 - 演習 1 - Privileged Access Management を設定して要求を処理する
 
 
 Adatum のセキュリティ管理者である Holly Dickson としての役割で、グローバル管理者のアクセス管理強化策として特権アクセス管理を設定するよう指示されました。Adatum は特に、グローバル管理者が MOD 管理者から特別な承認を得ずに Exchange メールボックスを移動することを防止したいと考えています。
