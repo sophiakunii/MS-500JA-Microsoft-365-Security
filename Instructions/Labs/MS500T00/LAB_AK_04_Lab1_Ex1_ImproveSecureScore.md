@@ -1,4 +1,4 @@
-﻿# モジュール 4: ラボ 1 - 演習 1 - Microsoft 365 Security Center でセキュリティ スコアを改善する
+# モジュール 4: ラボ 1 - 演習 1 - Microsoft 365 Security Center でセキュリティ スコアを改善する
 
 あなたはグローバル管理者の Holly Dickson で、Microsoft 365 にサインインしています。
 
