@@ -1,4 +1,4 @@
-﻿# モジュール 3 - ラボ 1 - 演習 2 -  MFA 条件付きアクセス (Azure Multi-Factor Authentication Pilot のロールアウトを完了する)
+# モジュール 3 - ラボ 1 - 演習 2 -  MFA 条件付きアクセス (Azure Multi-Factor Authentication Pilot のロールアウトを完了する)
 
 
 この演習では、Azure portal にログインするときに、Azure Multi-Factor Authentication (Azure MFA) を有効にする条件付きアクセスポリシーを構成します。このポリシーは、パイロット ユーザーの特定のグループにデプロイされ、テストされます。条件付きアクセスを使用する Azure MFA のデプロイは、組織および管理者にとって、従来の強制方法よりも大幅に高い柔軟性を持つ方法です。
