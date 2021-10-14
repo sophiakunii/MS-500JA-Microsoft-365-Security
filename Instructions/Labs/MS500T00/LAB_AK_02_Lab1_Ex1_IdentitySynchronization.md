@@ -1,4 +1,4 @@
-﻿# モジュール 2 - ラボ 1 - 演習 1 - ID 同期向けの組織設定 
+# モジュール 2 - ラボ 1 - 演習 1 - ID 同期向けの組織設定 
 
 あなたは、Adatum Corporation のセキュリティ管理者、Holly Dickson で、仮想化ラボ環境で Microsoft 365 がデプロイされています。このラボでは、Microsoft 365 テナント アカウントとローカルの Active Directory アカウントの間で ID 同期を実装します。
 
