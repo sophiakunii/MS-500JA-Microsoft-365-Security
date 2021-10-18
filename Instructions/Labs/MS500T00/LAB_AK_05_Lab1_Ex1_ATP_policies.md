@@ -1,4 +1,4 @@
-﻿# モジュール 5 - ラボ 1 - 演習 1 - ATP ポリシーを実装する  
+# モジュール 5 - ラボ 1 - 演習 1 - ATP ポリシーを実装する  
 
 Holly Dickson のグローバル管理者アカウントが設定されており、Microsoft 365 に Holly としてサインインしています。Adatum のパイロット プロジェクトのこのフェーズでは、既存の ATP 安全なリンク ポリシーを編集し、安全な添付ファイル ポリシーを作成し、SharePoint、OneDrive、Microsoft Teams 向けに Advanced Threat Protection を有効にします。また、両方のポリシーを検証し、適切に機能することを確認します。
 

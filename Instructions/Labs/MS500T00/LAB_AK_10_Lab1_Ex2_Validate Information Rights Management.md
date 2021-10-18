@@ -1,4 +1,4 @@
-﻿# モジュール 10 - ラボ 1 - 演習 2 - Information Rights Management を検証する 
+# モジュール 10 - ラボ 1 - 演習 2 - Information Rights Management を検証する 
 
 この演習では、Exchange Online と SharePoint Online の双方で Information Rights Management を検証する方法を学びます。
  
