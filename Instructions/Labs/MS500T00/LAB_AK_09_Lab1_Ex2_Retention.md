@@ -7,7 +7,7 @@
 
 Adatum のパイロット プログラムの一環として、MRM 保持タグを作成し、これを新しい MRM 保持ポリシーに追加して MRM 保持を構成します。また、複数の既定タグをポリシーに割り当てます。その後、この保持ポリシーを Joni Sherman と Alex Wilber のメールボックスに割り当てます。
 
-1. LON-CL1 仮想マシンで以下の操作を行います。**Microsoft Edge** で 「**Microsoft 365 管理センター**」(https://admin.microsoft.com/) に移動します。
+1. LON-CL1 仮想マシンで以下の操作を行います。**Microsoft Edge** で [**Microsoft 365 管理センター**](https://admin.microsoft.com/) に移動します。
 
 2. **Microsoft 365 管理センター** の左側のナビゲーション ペインで 「**…すべて表示**」 を選択します。
 
@@ -78,7 +78,7 @@ Adatum のパイロット プログラムの一環として、MRM 保持タグ�
 
 Adatum のパイロット プロジェクトの一環として、あらゆる Exchange Online メールボックスのコンテンツを最後の変更から 7 年間は削除から保護する保持ポリシーをセキュリティ/コンプライアンス センターで作成します。 
 
-1. **Microsoft Edge** で 「**Microsoft 365 コンプライアンス**」(https://compliance.microsoft.com/) に移動します。  **Holly Dickson** としてログインしていることを確認してください。
+1. **Microsoft Edge** で [**Microsoft 365 コンプライアンス**](https://compliance.microsoft.com/) に移動します。  **Holly Dickson** としてログインしていることを確認してください。
 
 2. 左側のナビゲーション ペインで 「**情報ガバナンス**」 をクリックします (最初に 「**...すべて表示**」 をクリックする必要があるかもしれません)。その後、「**保持ポリシー**」 タブを選択します。
 
