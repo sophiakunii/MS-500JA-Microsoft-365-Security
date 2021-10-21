@@ -1,4 +1,4 @@
-﻿# モジュール 8 - ラボ 1 - 演習 2 - デバイス管理を有効にする
+# モジュール 7 - ラボ 1 - 演習 2 - デバイス管理を有効にする
 
 
 あなたは、Adatum Corporation のセキュリティ管理者、Holly Dickson で、仮想化ラボ環境で Microsoft 365 がデプロイされています。このラボでは、Intune を使用してユーザーのデバイスを管理します。
@@ -11,7 +11,7 @@
 
 1. まだ、クライアント 1 VM (LON-CL1) に **lon-cl1\admin** アカウントとしてログインし、Microsoft 365 に Holly Dickson **(holly@M365xZZZZZZ.onmicrosoft.com)** としてパスワード「**Pa55w.rd**」を使ってログインしているはずです。
 
-2. **Microsoft Edge** では、まだ **Microsoft 365 管理センター**のタブが開いているはずです、その場合は、このタブを選択してください。このタブが開いていない場合は、「**https://portal.office.com**」 と入力して **Holly** としてサインインします。「**Microsoft Office Home**」 ページで 「**管理者**」 を選択します。
+2. **Microsoft Edge** では、まだ **Microsoft 365 管理センター**のタブが開いているはずです、その場合は、このタブを選択してください。このタブが開いていない場合は、 「**https://portal.office.com**」 と入力して **Holly** としてサインインします。「**Microsoft Office Home**」 ページで 「**管理者**」 を選択します。
 
 3. 「**Microsoft 365 管理センター**」 の左側のナビゲーション ペインで 「**課金情報**」 を選択し、そこで 「**ライセンス**」 を選択します。
 

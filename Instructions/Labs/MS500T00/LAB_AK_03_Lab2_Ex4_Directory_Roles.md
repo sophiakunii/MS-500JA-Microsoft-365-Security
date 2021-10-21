@@ -1,4 +1,4 @@
-﻿# モジュール 3 - ラボ 2 - 演習 4 - ディレクトリのロール (一般)
+# モジュール 3 - ラボ 2 - 演習 4 - ディレクトリのロール (一般)
 
 
 ### タスク 1: PIM で Azure AD ディレクトリ ロールのアクセス レビューを開始する
@@ -16,9 +16,9 @@
 1.  次の詳細を入力して、「**開始**」 をクリックします。
 
       - レビュー名:  `Global Admin Review`
-      - 開始日:  `Today's Date` 
-      - 頻度: `One time`
-      - 終了日:  `End of next month`
+      - 開始日:  `Enter Today's Date` 
+      - 頻度: `Drop down to One time`
+      - 終了日:  `Enter End of next month`
       - ロール メンバーシップのレビュー:  `Global Administrator`
       - レビュー担当者:  `Holly Dickson`
  

@@ -1,4 +1,4 @@
-﻿# モジュール 3 - ラボ 2 - 演習 6 - PIM で Azure AD ロールの監査履歴を表示
+# モジュール 3 - ラボ 2 - 演習 6 - PIM で Azure AD ロールの監査履歴を表示
 
 
 Azure Active Directory (Azure AD) Privileged Identity Management (PIM) の監査履歴を使用すると、あらゆる特権ロールの過去 30 日間のロールの割り当てとアクティブ化をすべて確認できます。管理者、エンド ユーザー、同期アクティビティを含むディレクトリのアクティビティの完全な監査履歴を確認するには、[Azure Active Directory のセキュリティおよびアクティビティ レポート](https://docs.microsoft.com/ja-jp/azure/active-directory/reports-monitoring/overview-reports)を使用できます。
