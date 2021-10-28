@@ -56,7 +56,7 @@ SSPR が有効で構成済みの場合は、前のセクションで選択した
 
 #### タスク 3: セルフサービス パスワード リセットをテストする
 
-1. `https://aka.ms/sspr` に移動して、Alan のユーザー名 (**AllanD@yourtenant.onmicrosoft.com**) を入力します。以下で Captcha を完了し、「**次へ**」 をクリックします。
+1. `https://aka.ms/sspr` に移動して、Alan のユーザー名 (**AllanD@yourtenant.onmicrosoft.com**) を入力します (AllanD のパスワードはおそらくラボのホスティング プロバイダーから提供された MOD 管理者のパスワードと同じです)。以下で Captcha を完了し、「**次へ**」 をクリックします。
 
 1. 前のタスクで構成した方法を使用して確認を要請します。
 
