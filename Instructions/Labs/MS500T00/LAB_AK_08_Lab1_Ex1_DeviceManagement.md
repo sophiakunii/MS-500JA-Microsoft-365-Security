@@ -9,7 +9,7 @@
 
 このタスクでは、Adatum が Enterprise Mobility + Security E5 製品をインストールしていることを確認し、利用可能なライセンスの数をチェックします。その後、ライセンスがテスト ユーザー アカウントに割り当てられていることを確認し、Holly Dickson にライセンスを割り当てます。
 
-1. まだ、クライアント 1 VM (LON-CL1) に **lon-cl1\admin** アカウントとしてログインし、Microsoft 365 に Holly Dickson **(holly@M365xZZZZZZ.onmicrosoft.com)** としてパスワード「**Pa55w.rd**」を使ってログインしているはずです。
+1. まだ、クライアント 1 VM (LON-CL1) に **lon-cl1\admin** アカウントとしてログインし、Microsoft 365 (**https://admin.microsoft.com**) に Holly Dickson **(holly@M365xZZZZZZ.onmicrosoft.com)** としてパスワード「**Pa55w.rd**」を使ってログインしているはずです。
 
 2. **Microsoft Edge** では、まだ **Microsoft 365 管理センター**のタブが開いているはずです、その場合は、このタブを選択してください。このタブが開いていない場合は、 「**https://portal.office.com**」 と入力して **Holly** としてサインインします。「**Microsoft Office Home**」 ページで 「**管理者**」 を選択します。
 
