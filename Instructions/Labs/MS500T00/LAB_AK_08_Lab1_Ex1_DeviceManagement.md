@@ -17,7 +17,7 @@
 
 4. 「**ライセンス**」 ページで 「**Enterprise Mobility + Security E5**」 を選択します。
 
-5. 「**Enterprise Mobility + Security E5**」 ページのユーザー一覧で、パイロット チームのメンバー、**Alex Wilber**、**Joni Sherman**、**Lynne Robbins**、**MOD 管理者**がライセンスを割り当てらえrていることを確認します。
+5. 「**Enterprise Mobility + Security E5**」 ページのユーザー一覧で、パイロット チームのメンバー、**Alex Wilber**、**Joni Sherman**、**Lynne Robbins**、**MOD 管理者**がライセンスを割り当てられていることを確認します。
 
     **注:** これらのユーザー アカウントは Office 365 テナントの一部として作成されたものです。そのプロセスの間にそれぞれ Office 365 E5 ライセンスと Enterprise Mobility + Security E5 ライセンスが割り当てられています。
 
