@@ -6,7 +6,7 @@
 
 1. まだ、クライアント 1 VM (LON-CL1) に **管理者**としてログインし、Microsoft 365 に **Holly Dickson** としてログインしているはずです。
 
-2. **Azure portal** の 「**すべてのサービス**」 ボックスで 「**Azure Active Directory**」 を検索して選択します。
+2. **Azure portal** (https://portal.azure.com/) の 「**すべてのサービス**」 ボックスで 「**Azure Active Directory**」 を検索して選択します。
 
 3. 「**Adatum Corporation - 概要**」 ウィンドウの左側のペインにある 「**管理**」 で、「**モビリティ (MDM および MAM)**」 を選択し、右側の詳細ペインで 「**Microsoft Intune**」 を選択します。
 
