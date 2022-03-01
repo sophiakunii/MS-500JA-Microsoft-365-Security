@@ -30,15 +30,15 @@
 
 1.	Microsoft Azure Active Directory Connect のセットアップ ウィザードの手順に従います。 
 2.	ライセンス条項とプライバシーに関する声明に同意します。
-3.	「**簡単設定を使う**」 をクリックします。   
-4.	「**Azure AD に接続**」 画面で Office 365 管理者のユーザー名 
+3.	「**Use express settings**」 をクリックします。   
+4.	「**Connect to Azure AD**」 画面で Office 365 管理者のユーザー名 
 **holly@M365xZZZZZZ.onmicrosoft.com** とパスワード `Pa55w.rd` を入力し、「次へ」 をクリックします。   
-5.	ポップアップ サイン イン ウィンドウ 「**AD DS に接続**」 画面がある場合は、ドメイン管理者 **Admin@M365xZZZZZZ.onmicrosoft.com** とパスワード `ycYoe＆L20a%%` を入力し、「**次へ**」 を選択します。   
-6.	「**AD DS に接続**」 画面でドメイン管理者 **ADATUM\Administrator** とパスワード `Pa55w.rd` を入力して、「**次へ**」 を選択します。
+5.	ポップアップ サイン イン ウィンドウ 「**Connect to AD DS**」 画面がある場合は、ドメイン管理者 **Admin@M365xZZZZZZ.onmicrosoft.com** とパスワード `ycYoe＆L20a%%` を入力し、「**次へ**」 を選択します。   
+6.	「**Connect to AD DS**」 画面でドメイン管理者 **ADATUM\Administrator** とパスワード `Pa55w.rd` を入力して、「**次へ**」 を選択します。
 7.	「**Continue without matching all UPN suffixes to verified domains**」 チェックボックスを選択します。Azure AD サインイン構成画面で 「**次へ**」 を選択します。   
-8.	「**構成の準備完了**」 画面で 「**構成が完了したら、同期プロセスを開始**」 チェックボックスが選択されていることを確認してから 「**インストール**」 を選択します。   
+8.	「**Ready to configure**」 画面で 「**Start the synchronization process when configuration completes**」 チェックボックスが選択されていることを確認してから 「**Install**」 を選択します。   
 9.	インストールが完了するのを待ちます (数分かかる可能性があります)。   
-10.	「**終了**」 を選択します。   
+10.	「**Exit**」 を選択します。   
 
 ### タスク 4 - ディレクトリ同期の結果を検証してユーザーにライセンスを付与する 
 
