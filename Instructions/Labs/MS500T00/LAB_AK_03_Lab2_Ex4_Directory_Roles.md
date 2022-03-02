@@ -38,6 +38,7 @@
 
 
 1.  PIM アプリケーションで、「**アクセスのレビュー**」 を選択します。 
+(メニューが見当たらない場合、Azure AD Privileged Identity Managementに移動してから操作を開始してください)
 
 2.  「**Global Admin Review**」 を選択します。
 
