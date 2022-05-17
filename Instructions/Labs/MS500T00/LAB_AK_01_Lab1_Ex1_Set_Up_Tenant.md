@@ -152,6 +152,7 @@ Holly Dickson は Adatum のセキュリティ管理者です。自分用の個�
 	- ライセンス: 「**ユーザーに製品ライセンスを割り当てる**」 で 「**Microsoft 365 E5**」 と 「**Enterprise Mobility + Security E5**」 を選択します。 
 
 ★割り当てるライセンスの数が足りない場合、一度ライセンスを割り当てずにウィザードを終了し、その後ライセンス画面からDiego Sicillianiユーザーに割り当てたライセンスを削除し、Holly Dicksonユーザーにライセンスを割り当ててください。★
+
 ★Microsoft 365 E5ライセンスが割り当て可能なライセンスにない場合、Enterprise Mobility + Security E5のライセンスだけを割り当てていただければ結構です。★
 
 7. 「**次へ**」 を選択します。
