@@ -51,6 +51,9 @@
 5.	Abbie Parsons の製品ライセンスを以下のように編集します。 
 	- Location = United Kingdom
 	- Product License = Enterprise Mobility + Security E5
+	
+	★割り当てるライセンスの数が足りない場合、ライセンス画面からAdele Vanceユーザーに割り当てたライセンスを削除し、Abbie Parsonsユーザーにライセンスを割り当ててください。★
+	
 6.	変更を行うには、「**変更の保存**」 をクリックします。ウィンドウを閉じます。
 
 これでローカル ADATUM ユーザーが Office 365 に同期され、同期されたユーザー「Abbie Parsons」にライセンスが付与されました。
