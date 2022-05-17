@@ -2,6 +2,8 @@
 
 あなたは、Adatum Corporation のセキュリティ管理者、Holly Dickson で、仮想化ラボ環境で Microsoft 365 がデプロイされています。このラボでは、Microsoft 365 テナント アカウントとローカルの Active Directory アカウントの間で ID 同期を実装します。
 
+★このモジュールの操作は必ずLON-DC1から操作してください★
+
 ### タスク 1 - UPN サフィックスを構成する
 
 1.	LON-DC1 で **Adatum\Administrator** として、ラボ ホスティング プロバイダーから割り当てられたパスワードを使ってログオンします。
