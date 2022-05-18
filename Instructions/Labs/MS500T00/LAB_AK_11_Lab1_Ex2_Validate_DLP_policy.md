@@ -79,6 +79,8 @@
 
 28. 次のラボのためにクライアント VM は両方とも開いたままにします。ブラウザーのタブはどれも閉じないでください。
 
+★設定が反映されるまでに時間を要することがあります★
+
 **このラボのトラブルシューティング**
 
 何も起きず、メールが両方とも Alex に送信された場合:
@@ -89,8 +91,6 @@
 [https://docs.microsoft.com/ja-jp/microsoft-365/compliance/what-the-sensitive-information-types-look-for?view=o365-worldwide#us-social-security-number-ssn](https://docs.microsoft.com/ja-jp/microsoft-365/compliance/what-the-sensitive-information-types-look-for?view=o365-worldwide#us-social-security-number-ssn)
 
 3. DLP ポリシーの構成を確認します。前の演習で説明されているようにポリシーが構成されていることを確認します。
-
-★設定が反映されるまでに時間を要することがあります★
 
 このラボは、さまざまな DLP ポリシーの構成をテストするよい機会となります。このラボを完了したら、他の結果をトリガーするようにこの DLP ポリシーを再構成してみてください。
 
