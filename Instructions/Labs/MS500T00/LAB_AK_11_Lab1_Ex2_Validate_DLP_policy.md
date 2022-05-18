@@ -6,6 +6,8 @@
 
 ### タスク 1 – 機密情報の含まれたメールに関して DLP ポリシーをテストする
 
+★必ずLON-CL2から操作してください★
+
 前の演習では、Adatum テナントで米国の社会保障番号に関連した機密情報をメールで検索するカスタム DLP ポリシーを作成しました。この演習では、社会保障番号の含まれたメールを Holly Dickson から Alex Wilber に送信します。
 
 1. クライアント 1 VM (**LON-CL1**) に切り替えます。まだ、Microsoft 365 に Holly Dickson (**holly@M365xZZZZZZ.onmicrosoft.com)** としてログインしているはずです (パスワードは `Pa55w.rd`)。 
@@ -87,6 +89,8 @@
 [https://docs.microsoft.com/ja-jp/microsoft-365/compliance/what-the-sensitive-information-types-look-for?view=o365-worldwide#us-social-security-number-ssn](https://docs.microsoft.com/ja-jp/microsoft-365/compliance/what-the-sensitive-information-types-look-for?view=o365-worldwide#us-social-security-number-ssn)
 
 3. DLP ポリシーの構成を確認します。前の演習で説明されているようにポリシーが構成されていることを確認します。
+
+★設定が反映されるまでに時間を要することがあります★
 
 このラボは、さまざまな DLP ポリシーの構成をテストするよい機会となります。このラボを完了したら、他の結果をトリガーするようにこの DLP ポリシーを再構成してみてください。
 
