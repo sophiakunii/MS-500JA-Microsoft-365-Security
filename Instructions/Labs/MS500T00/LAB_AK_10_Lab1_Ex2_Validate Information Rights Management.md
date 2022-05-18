@@ -6,6 +6,8 @@
 
 前の演習では、Adatum のために Exchange Online で Information Rights Management を設定しました。この演習では、保護されたメールを Holly Dickson から Alex Wilber に送信して、その構成を検証します。その後、クライアント 2 VM (**LON-CL2**) で Alex のメールボックスにログインし、メールを開いて、保護されていることを確認します。  
 
+★必ずLON-CL2から操作してください★
+
 1. クライアント 1 VM (**LON-CL1**) では、まだ Microsoft 365 管理センターに Holly Dickson としてログインしているはずです。**Microsoft Edge** ブラウザーでは、まだ **Office 365 ホーム** ページがタブで開いているはずです。**Office 365 ホーム ページ**のタブを選択してから 「**Outlook**」 を選択します。**注**: タイムゾーンを選択するよう指示されたら、いずれかを選択して 「**保存**」 を選択します。 
 
 4. 左側のナビゲーションの最上部で 「**新しいメッセージ**」 を選択して新しいメールを作成します。
@@ -44,6 +46,8 @@
 
  
 ### タスク 2 - SharePoint Online で Information Rights Management を検証する
+
+★手順14以降が正しく動作しません。そのため本タスクは割愛してください。★
 
 このコースの最初のラボでは、Adatum の Information Rights Management を SharePoint Online で有効にしました。
 
