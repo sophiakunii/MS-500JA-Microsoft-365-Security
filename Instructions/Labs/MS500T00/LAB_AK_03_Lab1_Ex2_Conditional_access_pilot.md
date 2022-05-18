@@ -65,6 +65,7 @@
        * ユーザー Lynne Robbins (**Lynne@yourtenant.onmicrosoft.com**) としてログインします (Lynne のパスワードはおそらくラボのホスティング プロバイダーから提供された MOD 管理者のパスワードと同じです)。登録して Azure Multi-Factor Authentication を使用するよう求められるはずです。
        * ブラウザー ウィンドウを閉じます。
 
+★Sign-in failedと表示される場合があります。その場合、Try againをクリックするとその先に進められます★
 
 
 # ラボ終了
