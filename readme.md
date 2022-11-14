@@ -1,17 +1,6 @@
 ﻿# MS-500X: Microsoft 365 セキュリティ管理者
 
-このリポジトリには、以下のコースのラボ手順が含まれています。
-
-- MS-500T00: Microsoft 365 セキュリティ センター
- 
-
-**[最新の受講生用ハンドブックと AllFiles のコンテンツをダウンロードしてください](../../releases/latest)**
-
-**あなたは MCT ですか。** - [MCT 向け GitHub ユーザー ガイド](https://microsoftlearning.github.io/MCT-User-Guide-JA/)をご覧ください
-
-**ラボの手順を手動でビルドする必要がありますか。** - 手順は、[MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) リポジトリで利用可能です
-
-## 説明
+## リソース
 
 - このコースをサポートするために、コースで使用されるAzureやMicrosoft 365のサービスに合わせて、コース内容を頻繁に更新する必要があります。  ラボの手順とラボ ファイルは GitHub で公開しています。これにより、コースの作成者と MCT 間でのオープンな作業が可能となり、Azure プラットフォームの変更に合わせてコンテンツを最新の状態に保つことができます。
 
