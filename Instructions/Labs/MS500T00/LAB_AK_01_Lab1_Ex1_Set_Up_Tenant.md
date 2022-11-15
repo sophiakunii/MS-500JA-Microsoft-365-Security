@@ -169,8 +169,6 @@ Holly Dickson は Adatum のセキュリティ管理者です。自分用の個�
 
 
 
-
-
 ### タスク 4 – Microsoft Azure Active Directory の準備 
 
 Microsoft 365 をインストールする際に複数の構成ステップを実行するには、Azure Active Directory が必要です。これらのステップは、Windows PowerShell を使用して実行します。ただし、PowerShell を使用して Azure AD にアクセスする前に、まず、Windows PowerShell モジュールをインストールし、PowerShell で Azure AD にアクセスできるようにする必要があります。このタスクでは、PowerShell モジュールをインストールして Azure AD の使用準備を整えます。
@@ -202,27 +200,8 @@ Microsoft 365 をインストールする際に複数の構成ステップを実
 1. ドメイン コントローラー VM にログインしたままにして、Windows PowerShell ウィンドウは開いたままにしておきます。
 
 
-### タスク 5 - IRM for SharePoint Online の有効化 
 
-このタスクでは、Information Rights Management (IRM) for SharePoint Online を有効にします。 
-
-**注:** Exchange と SharePoint での IRM の検証は今後のラボで行いますが、ここで IRM for SharePoint Online を有効にしておく必要があります。IRM が SharePoint Online に表示されるようになるまでに 60 分以上かかる可能性があるためです。今後のラボで検証の演習を行うころまでに IRM の内部構成を完了していれば、SharePoint Online で表示されるまで待つ必要がありません。
-
-1. ドメイン コントローラー VM には **LON-DC1\Admin** アカウントとしてログインしており (パスワードは**Pa55w.rd**)、Microsoft 365 (portal.office.com) には **MOD 管理者**としてログインしたままのはずです。 
-
-2. 「**Microsoft 365 管理センター**」 で左側のナビゲーション ペインをスクロールダウンし、「**管理センター**」 で 「**SharePoint**」 を選択します。これにより SharePoint 管理センターが開きます。
-
-3. 「**SharePoint 管理のための 1 つの場所**」 ポップアップ ウィンドウが表示されたら、「**了解**」 を選択してウィンドウを閉じます。
-
-4. 「**SharePoint 管理センター**」 の左側のナビゲーション ペインで 「**設定**」 を選択します。 
-
-5. ページの最下部に「**Can’t find the setting you’re looking for? Go to the classic settings page.**」と表示されます。この文章で、「**クラシック設定ページ**」 というハイパーリンク テキストを選択します。
-
-6. 「**設定**」 ページで **Information Rights Management (IRM)**」 セクションまでスクロールダウンし、「**構成で指定した IRM サービスを使う**」 を選択し、「**IRM 設定の更新**」 欄を選択します。ページの最下部までスクロールダウンし、「**OK**」 を選択します。 
-
-7. Edge ブラウザーで 「SharePoint 管理センター」 タブを閉じないでください。次のタスクのためにブラウザーは開いたままにします。
-
-### タスク 6 – 監査ログを有効にしてアラート ポリシーを有効にする
+### タスク 5 – 監査ログを有効にしてアラート ポリシーを有効にする
 
 今後のラボで、セキュリティ/コンプライアンス センターを使用してアラート ポリシーを作成します。ただし、アラートを実装する前に、管理者はまず、組織の監査ログを有効にする必要があります。セキュリティ/コンプライアンス センターでオンにしてから監査ログが完全に有効になるには数時間かかるため、このラボでオンにして、当該ラボが始まるころまでには完全に有効になるようにします。
 
