@@ -62,7 +62,7 @@
 
 2.  InPrivate モードまたはシークレット モードで新しいブラウザー ウィンドウを開き、**`https://portal.azure.com`** を参照します
 
-       * ユーザー Lynne Robbins (**Lynne@yourtenant.onmicrosoft.com**) としてログインします (Lynne のパスワードはおそらくラボのホスティング プロバイダーから提供された MOD 管理者のパスワードと同じです)。登録して Azure Multi-Factor Authentication を使用するよう求められるはずです。
+       * ユーザー Lynne Robbins (**LynneR@yourtenant.onmicrosoft.com**) としてログインします (LynneR のパスワードはおそらくラボのホスティング プロバイダーから提供された MOD 管理者のパスワードと同じです)。登録して Azure Multi-Factor Authentication を使用するよう求められるはずです。
        * ブラウザー ウィンドウを閉じます。
 
 ★Sign-in failedと表示される場合があります。その場合、Try againをクリックするとその先に進められます★
