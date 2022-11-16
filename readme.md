@@ -14,30 +14,19 @@ https://github.com/sophiakunii/MS-500JA-Microsoft-365-Security/tree/master/Instr
 
 ■英語キーボードと日本語キーボードの変換表
 
-入力文字	出力文字
+|入力文字 |出力文字 |
+|---     | --- |
+|Shift＋む | ｜ （パイプ） |
+|む | ￥（バックスラッシュ） |
+|Shift＋; | : |
+|Shift＋8 | * |
+|Shift＋9 | ( |
+|Shift＋0 | ) |
+|Shift＋2 | @ |
+|: | ' |
+|Shift＋: | " |
+|Shift＋- | _　（アンダースコア） |
+|へ | = |
+|@ | [ |
+|[ | ] |		
 
-Shift＋む	｜ （パイプ）
-
-む		￥（バックスラッシュ）
-
-Shift＋;	:
-
-Shift＋8	*
-
-Shift＋9	(
-
-Shift＋0	)
-
-Shift＋2	@
-
-:		'
-
-Shift＋:	"
-
-Shift＋-	_　（アンダースコア）
-
-へ		=
-
-@		[
-
-[		]
