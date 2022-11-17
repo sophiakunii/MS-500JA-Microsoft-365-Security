@@ -5,26 +5,7 @@
 
 この演習では、テナント向けに Azure Rights Management を設定します。また、Exchange 管理センターを使用してメール フロー暗号化ルールを作成する方法も学びます。
 
-### タスク 1 – Exchange Online で Azure Rights Management を有効にする
-
-このタスクでは、Microsoft 365 管理センターから Rights Management 保護を有効にします。 
- 
-1. クライアント VM (**LON-CL1**) に切り替えます。まだ、LON-CL1 に **LON-CL1\Admin** としてログインし、Microsoft 365 に **Holly Dickson** としてログインしているはずです。 
-
-2. Microsoft 365 管理センター `https://admin.microsoft.com` がまだブラウザーで開いていない場合は、これを開きます。
-
-3. 「**設定**」 を選択してから 「**組織設定**」 を選択します。
-
-4. 「サービス」 タブで 「**Microsoft Azure Information Protection**」 を選択します。
-
-5. Microsoft Azure Information Protection ペインで 「**Manage Microsoft Azure Information Protection の設定を管理する**」 を選択します。
-
-6. 再度サインインするように求められるかもしれません。  その場合は、Holly Dickson としてログインします。
-
-7. アクセス権管理がまだ有効になっていない場合は 「**有効にする**」 を選択します。これで、テナントのアクセス権管理が有効になっていることを確認できます。
-  
-
-### タスク 2 – Exchange 管理センターを使用してメール フロー暗号化ルールを作成する
+### タスク 1 – Exchange 管理センターを使用してメール フロー暗号化ルールを作成する
 
 このタスクでは、Exchange Online 環境内で Exchange 管理センターを使用してメッセージの暗号化ルールを作成します。次のタスクでは、同じことを行いますが、PowerShell を使用します。 
 
