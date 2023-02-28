@@ -139,7 +139,7 @@ Holly Dickson は Adatum のセキュリティ管理者です。自分用の個�
 	
 	- パスワード設定「**Automatically create a password**」 オプションは選択しません
 
-	- パスワード: `Pa55w.rd`
+	- パスワード: `Pa55w.rdPa55w.rd`
 
 	- 「**初回サインイン時にこのユーザーにパスワードの変更を要求する**」 は選択しません 
 
