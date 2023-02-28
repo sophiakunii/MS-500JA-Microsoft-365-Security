@@ -41,7 +41,7 @@
 3.	「**Use express settings**」 をクリックします。   
 4.	「**Connect to Azure AD**」 画面で Office 365 管理者のユーザー名 
 **holly@M365xZZZZZZ.onmicrosoft.com** とパスワード `Pa55w.rd` を入力し、「次へ」 をクリックします。   
-5.	ポップアップ サイン イン ウィンドウ 「**Connect to AD DS**」 画面がある場合は、ドメイン管理者 **Admin@M365xZZZZZZ.onmicrosoft.com** とパスワード `ycYoe＆L20a%%` を入力し、「**次へ**」 を選択します。   
+5.	ポップアップ サイン イン ウィンドウ 「**Connect to AD DS**」 画面が表示される場合は、ドメイン管理者 **Admin@M365xZZZZZZ.onmicrosoft.com** とパスワード `ycYoe＆L20a%%` を入力し、「**次へ**」 を選択します。   
 6.	「**Connect to AD DS**」 画面でドメイン管理者 **ADATUM\Administrator** とパスワード `Pa55w.rd` を入力して、「**次へ**」 を選択します。
 7.	「**Continue without matching all UPN suffixes to verified domains**」 チェックボックスを選択します。Azure AD サインイン構成画面で 「**次へ**」 を選択します。   
 8.	「**Ready to configure**」 画面で 「**Start the synchronization process when configuration completes**」 チェックボックスが選択されていることを確認してから 「**Install**」 を選択します。   
