@@ -9,7 +9,7 @@
 
 #### タスク 1: セルフサービス パスワード リセットを有効にする
 
-1.  **LON-CL1** に切り替えて、**Adatum\\Administrator** としてパスワード「**Pa55w.rd**」を使用してサインインします。
+1.  **LON-CL1** (ホストコンピューターでも可)に切り替えて、**Adatum\\Administrator** としてパスワード「**Pa55w.rd**」を使用してサインインします。
 
 2.  タスク バーで 「**Microsoft Edge**」 を選択し、`https:/portal.azure.com/` に進んで Azure を開きます。  前のラボの Holly Dickson としてログインします。**Azure Active Directory** に移動します。
     
