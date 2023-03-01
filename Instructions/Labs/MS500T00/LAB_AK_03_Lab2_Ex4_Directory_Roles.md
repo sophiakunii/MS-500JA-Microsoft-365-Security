@@ -16,9 +16,9 @@
 1.  次の詳細を入力して、「**開始**」 をクリックします。
 
       - レビュー名:  `Global Admin Review`
-      - 開始日:  `Enter Today's Date` 
-      - 頻度: `Drop down to One time`
-      - 終了日:  `Enter End of next month`
+      - 開始日:  `本日の日付` 
+      - 頻度: `1回`
+      - 終了日:  `来月末の日付`
       - ロール メンバーシップのレビュー:  `グローバル管理者`
       - レビュー担当者:  `Holly Dickson`
  
