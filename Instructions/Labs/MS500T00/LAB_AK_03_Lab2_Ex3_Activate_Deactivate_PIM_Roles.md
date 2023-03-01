@@ -20,7 +20,7 @@ Azure AD ディレクトリ ロールが必要な場合は、PIM の 「**自分
 1.  `Billing Administrator` をクリックして、**永続的に有資格**のチェックを外し、Patti Fernandez を再び**課金管理者**ロールに追加します。
 
 
-1.  「**In Private**」 閲覧セッションを開き、`https://portal.azure.com` まで移動します。**Patti** の UPN (たとえば、PattiF@YourTenantHere.onmicrosoft.com) と、ラボ ホスティング プロバイダーから提供されたパスワード (ヒント: パスワードは MOD 管理者のパスワードと同じ可能性があります) を使用して Patti としてログインします。  
+1.  「**In Private**」 閲覧セッション (ブラウザー画面でCtrl+Shift+Nキーを押す) を開き、`https://portal.azure.com` まで移動します。**Patti** の UPN (たとえば、PattiF@YourTenantHere.onmicrosoft.com) と、ラボ ホスティング プロバイダーから提供されたパスワード (ヒント: パスワードは MOD 管理者のパスワードと同じ可能性があります) を使用して Patti としてログインします。  
 ★多要素認証の初期設定画面が表示される場合があります。その場合、画面の指示に従ってセットアップを行ってください。★
 
 1.  Azure Portal で、**すべてのサービス**をクリックして、**Azure AD Privileged Identity Management**を検索して選択します。
