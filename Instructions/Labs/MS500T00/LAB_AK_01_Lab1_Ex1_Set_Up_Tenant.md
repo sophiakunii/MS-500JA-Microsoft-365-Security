@@ -167,6 +167,8 @@ Holly Dickson は Adatum のセキュリティ管理者です。自分用の個�
 
 ### タスク 4 – Microsoft Azure Active Directory の準備 
 
+★本手順は将来的に利用できなくなるPowerShellコマンドレットを利用するため、割愛してください。★
+
 Microsoft 365 をインストールする際に複数の構成ステップを実行するには、Azure Active Directory が必要です。これらのステップは、Windows PowerShell を使用して実行します。ただし、PowerShell を使用して Azure AD にアクセスする前に、まず、Windows PowerShell モジュールをインストールし、PowerShell で Azure AD にアクセスできるようにする必要があります。このタスクでは、PowerShell モジュールをインストールして Azure AD の使用準備を整えます。
 
 1. **Windows PowerShell** を開き、次のステップを実行します。
