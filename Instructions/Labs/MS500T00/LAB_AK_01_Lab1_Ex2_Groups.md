@@ -100,6 +100,8 @@
 
 ### タスク 3 – PowerShell を使用してグループを回復する 
 
+★本手順は将来的に利用できなくなるPowerShellコマンドレットを利用しています。そのため、本手順は割愛してください。★
+
 このタスクでは、Windows PowerShell を使用して、以前に削除した「Inside Sales」グループを回復します。Windows PowerShell を使用してこの Azure AD 関連のタスクを行うには、Windows Azure Active Directory PowerShell モジュールをインストールしておく必要があります。 
 
 **注記:** 前のラボで Windows Azure Active Directory PowerShell モジュールがインストールしているはずです。   
