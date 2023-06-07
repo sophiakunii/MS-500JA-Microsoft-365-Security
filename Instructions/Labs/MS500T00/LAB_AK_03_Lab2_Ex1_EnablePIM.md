@@ -8,7 +8,7 @@
 
 ### タスク 1: リソースを検出する
 
-1.  まだ Microsoft 365 管理センターに MOD 管理者としてログインしている場合は、ユーザーを Holly Dickson に切り替えます。**Azure portal** `https://portal.azure.com/` に移動し、グローバル管理者の Holly Dickson としてサインインします。「**すべてのサービス**」 をクリックしてから検索し、`Azure AD Privileged Identity Management` を選択します。
+1.  まだ Microsoft 365 管理センターに MOD 管理者としてログインしている場合は、ユーザーを Holly Dickson (Holly@M365xZZZZZZ.onmicrosoft.com) に切り替えます。**Azure portal** `https://portal.azure.com/` に移動し、グローバル管理者の Holly Dickson としてサインインします。「**すべてのサービス**」 をクリックしてから検索し、`Azure AD Privileged Identity Management` を選択します。
 
      ![スクリーンショット](../Media/a52510a3-b2a2-4b21-91a8-ee7f34b39a72.png)
 
